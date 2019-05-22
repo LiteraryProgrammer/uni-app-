@@ -1,0 +1,1 @@
+<template name="14c6dfb7"><view class="_view 14c6dfb7 send-wrap"><image src="../../static/images/success.jpg" alt class="_img 14c6dfb7"></image><button bindtap="handleProxy" data-eventid="{{'14c6dfb7-0'}}" data-comkey="{{$k}}" class="_button 14c6dfb7">返回</button></view></template>
